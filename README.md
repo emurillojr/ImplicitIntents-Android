@@ -1,5 +1,5 @@
 # ImplicitIntents-Android
-Implicit Intents <br>
+Implicit Intents inclass2.1<br>
 Create an activity that has buttons to do the following <br>
 List all contacts <br>
 Captures an image <br>
